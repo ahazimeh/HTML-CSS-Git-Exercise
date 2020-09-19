@@ -11,7 +11,6 @@ a {
   border-left: 5px solid blue;
 }
 .message:first-child {
-  color: green;
   opacity: 0.5;
 }
 p {
