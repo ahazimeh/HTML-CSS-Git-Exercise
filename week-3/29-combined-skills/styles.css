@@ -18,4 +18,27 @@ span.red_heart {
     justify-content: space-between;
     align-items: center;
   }
+  .views {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .view-list__item {
+    margin-left: 1%;
+  }
+  .views__all {
+    margin-left: 70%;
+  }
+}
+.main-article {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  max-width: 50em;
+  line-height: 2rem;
+}
+.site-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
